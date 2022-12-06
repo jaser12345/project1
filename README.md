@@ -1,2 +1,2 @@
-# project1
-Forex Trading utility
+# project1 
+moved to another repo
